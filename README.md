@@ -127,7 +127,7 @@ git init
 git add .
 git commit -m "Build retail sales analytics project"
 git branch -M main
-git remote add origin YOUR_GITHUB_REPOSITORY_URL
+git remote add origin https://github.com/diivyaaanshii/-Sales-Analytics-Dashboard/tree/maingit 
 git push -u origin main
 ```
 
